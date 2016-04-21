@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PHOTO-NOTES</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_photo">PHOTO-NOTES</string>
+    <string name="title_activity_photo_details">PHOTO-NOTES</string>
+
+</resources>
