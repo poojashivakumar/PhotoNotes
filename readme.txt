@@ -1,1 +1,0 @@
-Tested on a physical Device(Samsung Galaxy s5)
